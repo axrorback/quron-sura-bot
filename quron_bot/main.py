@@ -54,7 +54,7 @@ def split_audio_ffmpeg(input_file: str, chunk_duration: int = 600) -> list[str]:
 
 # --- BOT SETUP ---
 load_dotenv()
-TOKEN = os.getenv("BOT_TOKEN") or "7743782732:AAGYzF61jGNBxGTcp6qISBzd8oYDFPvBjYY"
+TOKEN = os.getenv("BOT_TOKEN") or "TOKEN"
 
 logging.basicConfig(level=logging.INFO)
 

@@ -1,3 +1,7 @@
 .env
 idea
 MACOS
+users.db
+bot.db
+data
+suras
