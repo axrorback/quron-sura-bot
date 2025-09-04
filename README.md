@@ -2,6 +2,8 @@
 
 Bu loyiha — **aiogram 3.x** yordamida yozilgan **Telegram bot**, foydalanuvchilarga Qur’on suralarini tinglash, saqlash va boshqarish imkoniyatini beradi.
 
+🔓 **Loyiha to‘liq open-source** — hamma foydalanishi, o‘zgartirishi va ulashishi mumkin.
+
 ---
 
 ## ✨ Xususiyatlari
@@ -105,4 +107,6 @@ quron-bot/
 
 ## 📜 Litsenziya
 
-MIT License — bemalol foydalanishingiz mumkin.
+MIT License — bemalol foydalanishingiz, o‘zgartirishingiz va ulashishingiz mumkin.
+
+🌍 Ushbu loyiha **open-source** bo‘lib, hamjamiyat tomonidan rivojlantirilishi mumkin.
