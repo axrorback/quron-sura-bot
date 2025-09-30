@@ -14,6 +14,8 @@ bot = Bot(token=str(API_TOKEN))
 dp = Dispatcher()
 scheduler = AsyncIOScheduler()
 
+
+
 # === DATABASE ===
 def init_db():
     conn = sqlite3.connect("users.db")
